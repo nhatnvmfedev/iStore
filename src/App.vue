@@ -3,7 +3,7 @@
       <notifications group="foo" position="bottom right" />
       <div v-if="isNoticeAddCart=== true" class="alert alert-success notice"
           :class="{ noticeAddcart : isNoticeAddCart }" role="alert">
-          Successfully added to cart
+          Successfully added to cart xxx
         </div>
       <div class="container-fluid">
         <div class="row">
